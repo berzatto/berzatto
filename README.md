@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/1GPWZYK1/IMG-0644-removebg-preview.png">
+  <img src="https://i.ibb.co/nHsSJqy/IMG-0644-removebg-preview-1-jukebox-bg-removed.png">
   </div>
   <div align="center">
 
