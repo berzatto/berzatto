@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/nHsSJqy/IMG-0644-removebg-preview-1-jukebox-bg-removed.png">
+  <img src="https://i.pinimg.com/originals/71/86/f0/7186f039411322bc9fa77a5d4b741cf2.gif">
   </div>
   <div align="center">
 
@@ -7,5 +7,5 @@
 [prns](https://pronouns.cc/@pattinson)
 </div>
   <p align="center">
-  <sup> art credits: mee ^_^ </sup>
+  <sup> credits: cwtesi on pinterest </sup>
  </p>
