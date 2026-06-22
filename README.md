@@ -7,5 +7,5 @@
 [prns](https://pronouns.cc/@pattinson)
 </div>
   <p align="center">
-  <sup>credits: mee ^_^ </sup>
+  <sup>art credits: mee ^_^ </sup>
  </p>
