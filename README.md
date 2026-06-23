@@ -5,6 +5,7 @@
 
 [atabook](https://tokidoki.atabook.org/)
 [prns](https://pronouns.cc/@pattinson)
+[interests](https://rentry.co/puppicel)
 </div>
   <p align="center">
   <sup> credits: cwtesi on pinterest </sup>
