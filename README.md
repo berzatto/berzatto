@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/71/86/f0/7186f039411322bc9fa77a5d4b741cf2.gif">
+  <img src="https://i.ibb.co/G4jc34SC/18e44c7c41f8b2420456141c185328de-2-removebg-preview.png">
   </div>
   <div align="center">
 
@@ -8,5 +8,5 @@
 [interests](https://rentry.co/puppicel)
 </div>
   <p align="center">
-  <sup> credits: cwtesi on pinterest </sup>
+  <sup> credits: nknkt99 on twt </sup>
  </p>
