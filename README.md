@@ -6,6 +6,7 @@
 [atabook](https://tokidoki.atabook.org/)
 [prns](https://pronouns.cc/@pattinson)
 [interests](https://rentry.co/puppicel)
+[strawpage](https://pupdexter.straw.page)
 </div>
   <p align="center">
   <sup> credits: nknkt99 on twt </sup>
