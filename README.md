@@ -2,7 +2,7 @@
 
   ![](https://komarev.com/ghpvc/?username=berzatto&color=1E1F23&label=PROFILE+VIEWS&base=100)
   
-  <img src="https://i.ibb.co/G4jc34SC/18e44c7c41f8b2420456141c185328de-2-removebg-preview.png">
+  <img src="https://i.pinimg.com/originals/45/97/27/459727520b9145c81f74f51023115a92.gif">
   </div>
   <div align="center">
 
