@@ -11,9 +11,6 @@
 [interests](https://rentry.co/puppicel)
 [strawpage](https://pupdexter.straw.page)
 </div>
-  <p align="center">
-  <sup> credits: nknkt99 on twt </sup>
- </p>
  <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lvdizjz3c5fvizzhu22kvxhf44&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
