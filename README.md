@@ -8,7 +8,7 @@
 
 [atabook](https://tokidoki.atabook.org/)
 [prns](https://pronouns.cc/@pattinson)
-[interests](https://fluffle.cc/poindextr)
+[listography](https://listography.com/pupdexter)
 [strawpage](https://pupdexter.straw.page)
 </div>
  <p align="center">
