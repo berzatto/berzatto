@@ -6,8 +6,8 @@
   </div>
   <div align="center">
 
-[atabook](https://tokidoki.atabook.org/)
-[guns](https://guns.lol/danonation)
+[guns](/https://guns.lol/danonation)
 [listography](https://listography.com/pupdexter)
+[ata](https://tokidoki.atabook.org)
 [strawpage](https://pupdexter.straw.page)
 </div>
