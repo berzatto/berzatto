@@ -6,7 +6,7 @@
   </div>
   <div align="center">
 
-[guns](/https://guns.lol/danonation)
+[guns](https://guns.lol/danonation)
 [listography](https://listography.com/pupdexter)
 [ata](https://tokidoki.atabook.org)
 [strawpage](https://pupdexter.straw.page)
