@@ -7,7 +7,7 @@
   <div align="center">
 
 [atabook](https://tokidoki.atabook.org/)
-[prns](https://pronouns.cc/@pattinson)
+[guns](https://guns.lol/danonation)
 [listography](https://listography.com/pupdexter)
 [strawpage](https://pupdexter.straw.page)
 </div>
