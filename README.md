@@ -12,5 +12,6 @@
 [strawpage](https://pupdexter.straw.page)
 </div>
 
-<sup> credits: criminalxd02 on pinterest </sup>
 <div align="center">
+<sup> credits: criminalxd02 on pinterest </sup>
+</div>
