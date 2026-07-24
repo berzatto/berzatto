@@ -2,7 +2,8 @@
 
   ![](https://komarev.com/ghpvc/?username=berzatto&color=1E1F23&label=PROFILE+VIEWS&base=100)
   
-  <img src="https://i.ibb.co/sryKkvh/796f14b04ba34131c8a6d11f4ca6322c-removebg-preview.png">
+  <img src="<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/6f31ad88-68cc-4b5b-99d3-98f7c27b992f" />
+">
   </div>
   <div align="center">
 
