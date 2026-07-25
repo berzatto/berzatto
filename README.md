@@ -2,7 +2,8 @@
 
   ![](https://komarev.com/ghpvc/?username=berzatto&color=A0BFF0&label=kyuties&base=100)
   
-  <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/6f31ad88-68cc-4b5b-99d3-98f7c27b992f"/>
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/06225181-acbc-487a-a3ea-b401dff6c959" />
+"/>
   </div>
   <div align="center">
 
