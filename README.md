@@ -2,7 +2,7 @@
 
   ![](https://komarev.com/ghpvc/?username=berzatto&color=A0BFF0&label=kyuties&base=100)
   
-<img width="400" height="400" alt="dex chibi" src="https://github.com/user-attachments/assets/06225181-acbc-487a-a3ea-b401dff6c959" />
+<img width="400" height="400" alt="dex chibi" src="https://i.ibb.co/p6LBc3SQ/ff40d017ed9e807aa9345b122aa12a79-removebg-preview.png" />
   </div>
   <div align="center">
 
@@ -13,5 +13,5 @@
 </div>
 
 <div align="center">
-<sup> credits: me :3c </sup>
+<sup> credits: pinterest !!! </sup>
 </div>
