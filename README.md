@@ -2,7 +2,7 @@
 
   ![](https://komarev.com/ghpvc/?username=berzatto&color=A0BFF0&label=kyuties&base=100)
   
-<img width="400" height="400" alt="dex chibi" src="https://i.ibb.co/hxpsPNQ7/output-onlinepngtools-1.png" />
+<img width="400" height="400" alt="dex chibi" src="https://github.com/user-attachments/assets/06225181-acbc-487a-a3ea-b401dff6c959" />
   </div>
   <div align="center">
 
