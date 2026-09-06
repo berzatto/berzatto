@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=berzatto&color=A0BFF0&label=kyuties&base=100)
+  ![](https://komarev.com/ghpvc/?username=berzatto&color=A0BFF0&label=kyuties&base=100&abbreviated=true)
   
 <img width="400" height="400" alt="dex chibi" src="https://i.ibb.co/hR1tNx1S/cutie-gif.gif" />
   </div>
