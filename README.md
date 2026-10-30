@@ -2,7 +2,8 @@
 
   ![](https://komarev.com/ghpvc/?username=berzatto&color=A0BFF0&label=kyuties&base=100&abbreviated=true)
   
-<img width="400" height="400" alt="dex chibi" src="https://media1.tenor.com/m/6R-_AGGGWUAAAAAd/nathan-fielder-ok.gif" />
+<img width="333" height="249" alt="nathan fielder" src="https://github.com/user-attachments/assets/b7ef5d8d-95bb-4be6-97b9-b58a115b06db" />
+" />
   </div>
   <div align="center">
 
