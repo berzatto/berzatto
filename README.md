@@ -2,7 +2,7 @@
 
   ![](https://komarev.com/ghpvc/?username=berzatto&color=A0BFF0&label=kyuties&base=100&abbreviated=true)
   
-<img width="400" height="400" alt="dex chibi" src="https://i.ibb.co/hR1tNx1S/cutie-gif.gif" />
+<img width="400" height="400" alt="dex chibi" src="https://media1.tenor.com/m/6R-_AGGGWUAAAAAd/nathan-fielder-ok.gif" />
   </div>
   <div align="center">
 
@@ -13,5 +13,4 @@
 </div>
 
 <div align="center">
-<sup> credits: me ^__^ </sup>
 </div>
