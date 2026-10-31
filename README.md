@@ -8,7 +8,7 @@
 
 [guns](https://guns.lol/danonation)
 [listography](https://listography.com/pupdexter)
-[ata](https://tokidoki.atabook.org)
+[ata](https://nathanforyou.atabook.org)
 [strawpage](https://pupdexter.straw.page)
 </div>
 
