@@ -8,7 +8,7 @@
 
 [guns](https://guns.lol/danonation)
 [ata](https://nathanforyou.atabook.org)
-[strawpage](https://pupdexter.straw.page)
+[🍓](https://pupdexter.straw.page)
 </div>
 
 <div align="center">
