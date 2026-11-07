@@ -7,7 +7,6 @@
   <div align="center">
 
 [guns](https://guns.lol/danonation)
-[listography](https://listography.com/pupdexter)
 [ata](https://nathanforyou.atabook.org)
 [strawpage](https://pupdexter.straw.page)
 </div>
